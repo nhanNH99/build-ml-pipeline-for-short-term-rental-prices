@@ -2,7 +2,7 @@
 
 The project provided me with the fundamental knowledge of using MLflow combined with W&B. This is a project in the Udacity course.
 
-Link wandb : **https://wandb.ai/ngonhanit-fpt/nyc_airbnb?nw=nwuserngonhanit**
+Link wandb : https://wandb.ai/ngonhanit-fpt/nyc_airbnb?nw=nwuserngonhanit
 Link repo : https://github.com/nhanNH99/build-ml-pipeline-for-short-term-rental-prices
 
 # Set up and install 
